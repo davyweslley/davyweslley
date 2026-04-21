@@ -46,8 +46,8 @@ estou expandindo um conjunto de habilidades que já é robusto.
 
 | 🔗 Projeto | 📋 Descrição | ⚙️ Tecnologias |
 |---|---|---|
-| [E-commerce](#) | Site modelo de loja virtual com foco em experiência do usuário | HTML, CSS, JavaScript |
-| [App Florestal](#) | Aplicativo de gestão de processos para empresa do setor florestal | Power Apps |
+| [App de Campo Florestal](#) | Aplicativo de gestão de processos para empresa do setor florestal | Power Apps, Share Point |
+| [Gestor de obras e E-commerce](#) | Site modelo de loja virtual com foco em experiência do usuário | HTML, CSS, JavaScript |
 
 ---
 
