@@ -48,7 +48,7 @@ estou expandindo um conjunto de habilidades que já é robusto.
   
 | 🔗 Projeto | 📋 Descrição | ⚙️ Tecnologias |
 |---|---|---|
-| [Estudos de JavaScript](https://github.com/davyweslley/estudos_javascript) | Exercícios práticos de JavaScript desenvolvidos durante minha jornada de aprendizado | HTML, CSS, JavaScript |
+| [Estudos de JavaScript](https://github.com/davyweslley/estudos_javascript) | Alguns de meus exercícios práticos de JavaScript | HTML, CSS, JavaScript |
 | [App de Campo Florestal](#) | Aplicativo de gestão de processos para empresa do setor florestal | Power Apps, Share Point, Bi |
 | [CredCoop](https://github.com/davyweslley/CredCoop) | Site modelo de loja virtual com foco em experiência do usuário | HTML, CSS, JavaScript, Lovable |
 
@@ -68,17 +68,6 @@ me deram uma base que vai além do técnico:
 - ⚙️ **Lógica de programação aplicada** — vinda da geração de código CNCs
 
 Tudo isso agora alimenta a forma como escrevo e penso o código.
-
----
-
-<div align="center">
-
-## 📈 Minha atividade
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davyweslley&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davyweslley&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
