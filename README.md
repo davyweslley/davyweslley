@@ -48,7 +48,7 @@ estou expandindo um conjunto de habilidades que já é robusto.
   
 | 🔗 Projeto | 📋 Descrição | ⚙️ Tecnologias |
 |---|---|---|
-| [Estudos de JavaScript](https://github.com/davyweslley/estudos_javascript) | Alguns de meus exercícios práticos de JavaScript | HTML, CSS, JavaScript |
+| [Estudos de JavaScript](https://github.com/davyweslley/Estudos-JavaScript/blob/main/README.md) | Alguns de meus exercícios práticos de JavaScript | HTML, CSS, JavaScript |
 | [Ver todos os dashboards](https://github.com/davyweslley/Dash-Boards-BI/blob/main/README.md) | Projetos de análise de dados e visualização desenvolvidos com foco em transformar dados em insights estratégicos | Power BI, DAX, Power Query, SQL, Excel |
 | [App de Campo Florestal](#) | Aplicativo de gestão de processos para empresa do setor florestal | Power Apps, Share Point, Bi |
 | [CredCoop](https://github.com/davyweslley/CredCoop) | Site modelo de loja virtual com foco em experiência do usuário | HTML, CSS, JavaScript, Lovable |
