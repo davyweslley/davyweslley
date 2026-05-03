@@ -61,11 +61,11 @@ estou expandindo um conjunto de habilidades que já é robusto.
 Inumeros projetos metálicos, processos orquestrados e identidades visuais moldadas
 me deram uma base que vai além do técnico:
 
-- 📐 **Precisão e atenção ao detalhe** — projeto técnico não perdoa erros
-- 🔄 **Visão sistêmica de processos** — do conceito à execução
-- 🎨 **Sensibilidade de design** — desenvolvida no projeto de produtos e marcas
-- 🤝 **Interface entre áreas** — projeto, produção, gestão e cliente
-- ⚙️ **Lógica de programação aplicada** — vinda da geração de código CNCs
+- 📐 **Precisão e atenção ao detalhe** -> projeto técnico não perdoa erros
+- 🔄 **Visão sistêmica de processos** -> do conceito à execução
+- 🎨 **Sensibilidade de design** -> desenvolvida no projeto de produtos e marcas
+- 🤝 **Interface entre áreas** -> projeto, produção, gestão e cliente
+- ⚙️ **Lógica de programação aplicada** -> vinda da geração de código CNCs
 
 Tudo isso agora alimenta a forma como escrevo e penso o código.
 
