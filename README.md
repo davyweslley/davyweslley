@@ -48,6 +48,7 @@ estou expandindo um conjunto de habilidades que já é robusto.
   
 | 🔗 Projeto | 📋 Descrição | ⚙️ Tecnologias |
 |---|---|---|
+| [Estudos de JavaScript](https://github.com/davyweslley/estudos_javascript) | Exercícios práticos de JavaScript desenvolvidos durante minha jornada de aprendizado | HTML, CSS, JavaScript |
 | [App de Campo Florestal](#) | Aplicativo de gestão de processos para empresa do setor florestal | Power Apps, Share Point, Bi |
 | [CredCoop](https://github.com/davyweslley/CredCoop) | Site modelo de loja virtual com foco em experiência do usuário | HTML, CSS, JavaScript, Lovable |
 
