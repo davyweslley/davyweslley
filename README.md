@@ -1,13 +1,30 @@
 <div align="center">
+  
+# 👾 Davy Weslley Belegante Valmorbida 💻
 
-# Davy Weslley Belegante Valmorbida 🏗️➡️💻
-
-### Engenharia de precisão, agora aplicada ao código.
+### Applying Engineering Precision to Software Development
+#### Engenharia de precisão, agora aplicada ao código.
 
 </div>
 
 ---
 
+<div align="justify">
+  
+$\textcolor{gray}{\text{EN}}$
+<br>
+I have a strong background in industrial engineering, where I designed products, assemblies, and processes from the ground up using CAD and 3D modeling. 
+I also developed visual identities, product and brand design, created CNC programs, and worked as a key link between design, processes, and production.
+
+Technology has always been at the core of my work, once my primary tool, it is now my profession.
+
+Currently pursuing a degree in Software Engineering, I study Python and JavaScript daily and build real-world applications.
+I am not starting from zero; I am leveraging and expanding an already solid and practical skill set.
+
+---
+
+$\textcolor{gray}{\text{PT-BR}}$
+<br>
 Venho de uma carreira sólida no setor de engenharia industrial,
 onde projetei produtos, conjuntos e processos do zero via **CAD e modelagem 3D**,
 desenvolvi **identidades visuais e design de produtos e marcas**, gerei **programações CNC**
@@ -19,6 +36,8 @@ Sempre fui movido por tecnologia, ela já era minha principal ferramenta,
 Hoje curso **Engenharia de Software**, estudo **Python e JavaScript** diariamente
 e desenvolvo aplicações reais. Não estou recomeçando do zero,
 estou expandindo um conjunto de habilidades que já é robusto.
+
+</div>
 
 ---
 
