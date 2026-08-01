@@ -71,7 +71,7 @@ estou expandindo um conjunto de habilidades que já é robusto.
 | [JavaScript](https://github.com/davyweslley/java-script/blob/main/README.md) | Alguns de meus projétos de JavaScript | HTML, CSS, JavaScript |
 | [Ver dashboards](https://github.com/davyweslley/dash-boards/blob/main/README.md) | Projetos de análise de dados e visualização desenvolvidos com foco em transformar dados em insights estratégicos | Power BI, DAX, Power Query, SQL, Excel |
 | App de Campo Florestal | Aplicativo de gestão de processos para empresa do setor florestal | Power Apps, Share Point, Bi |
-| CredCoop | Site modelo de loja virtual com foco em experiência do usuário | HTML, CSS, JavaScript, Lovable |
+| [CredCoop](https://github.com/davyweslley/cred-coop) | Site modelo de loja virtual com foco em experiência do usuário | HTML, CSS, JavaScript, Lovable |
 
 </div>
 
